@@ -1,0 +1,7 @@
+.venv/
+work/
+sfx/*.wav
+sfx/*.mp3
+.env
+__pycache__/
+*.pyc
